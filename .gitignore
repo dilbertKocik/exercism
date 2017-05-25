@@ -1,3 +1,8 @@
+# ignore intellij things
+.idea/
+*.iml
+
+# ignore lein/repl things
 target/
 .lein-repl-history
 .nrepl-port
